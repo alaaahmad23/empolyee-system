@@ -1,0 +1,105 @@
+html {
+    background-color: white;
+    
+}
+
+    header {
+        overflow: hidden;
+        background:darkred ;
+        
+        
+    }
+.header-right {
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 25px;
+ font-style: italic;
+}
+
+a:hover{color: seashell}
+
+
+#logoT {
+    
+    color:white;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    padding-right:50px;
+}
+
+
+
+.proTitle{
+    background-image:url(media/plant13.jpg);
+    width: 99%%;
+    height: 150px;
+    padding: 100px;
+    opacity: 70%;
+}
+
+    
+
+.sideT{
+    margin: 20px 0 0 50px;
+    font-size: 30px;
+    color: darkolivegreen;
+    font-family: fantasy;
+    text-align: center;
+    color: black;
+    
+}
+
+.info{
+    margin: 15px 70px 0 70px;
+    text-align: justify;
+  font-family: cursive;
+    text-align: center;
+}
+
+.login{
+    text-align: center;
+}
+.admin{
+  text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: darkred;
+    
+}
+.foot{
+    
+        color: darkred;
+}
+.contact{
+    
+    margin-left: 200px;
+}
+.btn-group{
+    
+    padding: 220px;
+   
+}
+
+.Eid{
+     text-align: center;
+     margin-top: 70px;
+}
+.empid{
+    font-size: 20px;
+    color: darkred;
+    text-decoration-line: underline;
+}
+.add{
+    text-align: center;
+     margin-top: 40px;
+    margin-right: 1000px;
+}
+.ftitle{
+   
+    margin-top: 30px;
+    text-align: center;
+    border: 2px solid;
+}
